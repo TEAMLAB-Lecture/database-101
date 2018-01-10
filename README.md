@@ -9,13 +9,34 @@
 - [Applied Database System with Python Programming]() - 본 과정
 
 ## 강의개요
+데이터베이스 시스템은 오늘날 우리가 사용하는 거의 모든 정보 시스템에 가장 기본이 데이터 저장소로 활용되고 있다. 데이터베이스 시스템을 이해하는 것은 정보 시스템 이해에 있어 가장 기본이 되며, 최근 사회를 변화시키고 있는 빅 데이터, 머신러닝, 데이터 과학의 이해를 위해서도 반드시 필요합니다. 우리는 본 수업을 통해 기본적인 데이터베이스 관리 시스템(DBMS)의 개념 부터, 테이터베이스를 관리를 위한 SQL, 실제적인 DB 프로그래밍을 위한 ORM과 메신져 기반의 챗봇 프로그램 개발을 배운다.
+
 
 ## 강의정보
 * 강좌명: 파이썬을 활용한 응용데이터베이스 시스템(Applied Database System with Python Programming)
 * 강의자명: 가천대학교 산업경영공학과 최성철 교수 (sc82.choi@gachon.ac.kr, Director of [@TeamLab](https://github.com/TeamLab))
 * Facebook: [Gachon CS50](https://www.facebook.com/GachonCS50)
-* 강의자료: [Docs.com](https://docs.com/choi-sungchul/7359)
 * Email: teamlab.gachon@gmail.com
+* 선수지식: Python(requirment), Django(recommended)
+
+## 강의구성
+#### ch.1 데이터베이스 시스템 개요
+#### ch.2 데이터베이스 디자인하기
+#### ch.3 SQL문 이해 #1
+#### ch.4 SQL문 이해 #2
+#### ch.5 SQL programming with Python and Cloud
+#### ch.6 SQL문의 이해 #3
+#### ch.7 ORM Programming #1
+#### ch.8 ORM Programming #2
+#### ch.9 Rest Framework와 챗봇 프로그래밍  #1
+#### ch.10 Rest Framework와 챗봇 프로그래밍  #2
+#### ch.11 Rest Framework와 챗봇 프로그래밍  #2
+#### ch.12 Advanced DB Topcis #1
+#### ch.13 Advanced DB Topcis #2
+#### ch.14 NoSQL Database #1
+#### ch.15 NoSQL Database #2
+
+
 
 ## References
 - SQL
@@ -29,6 +50,7 @@
 - ORM
   - https://github.com/ramiroaznar/using-databases-with-python
   - https://www.datacamp.com/courses/introduction-to-relational-databases-in-python
+
 - MongoDB
   - https://www.youtube.com/playlist?list=PLBHVuYlKEkUI73kv66lK2aWmMuQ-vBZwF
   - https://realpython.com/blog/python/introduction-to-mongodb-and-python/
