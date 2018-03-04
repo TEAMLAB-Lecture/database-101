@@ -22,6 +22,7 @@
 ## 강의구성
 #### ch.1 데이터베이스 시스템 개요
 #### ch.2 데이터베이스 디자인하기
+- [MySQL 설치하기](http://www.popit.kr/mysql-%EC%84%A4%EC%B9%98-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%99%98%EA%B2%BD/)
 #### ch.3 SQL문 이해 #1
 #### ch.4 SQL문 이해 #2
 #### ch.5 SQL programming with Python and Cloud
