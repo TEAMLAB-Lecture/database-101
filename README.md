@@ -36,10 +36,15 @@
 #### ch.14 NoSQL Database #1
 #### ch.15 NoSQL Database #2
 
+## Dataset
+- [Northwind set](https://relational.fit.cvut.cz/dataset/Northwind)
+  - The Northwind database contains the sales data for a fictitious company called Northwind Traders, which imports and exports specialty foods from around the world.
+
 
 
 ## References
-- SQL
+- Relational Database and SQL
+  - [관계형 데이터베이스 실전 입문](http://wikibook.co.kr/rdb-in-practice/), 오쿠노 미키야,  위키북스(2016)
   - https://www.youtube.com/playlist?list=PLBHVuYlKEkUI4yoqSdhN8mkGk6lts6HxD
   - https://www.datacamp.com/courses/intro-to-sql-for-data-science
 - DB in Python
