@@ -1,0 +1,9 @@
+show databases;
+
+create database northwind;
+use northwind;
+show tables;
+
+exit;
+
+mysql -u root -p northwind < Northwind.MySQL5.sql
