@@ -22,10 +22,11 @@
 ## 강의구성
 #### ch.1 데이터베이스 시스템 개요
 - [MySQL 설치하기](http://www.popit.kr/mysql-%EC%84%A4%EC%B9%98-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%99%98%EA%B2%BD/)
+- [Dataset - Northwind](https://vimeo.com/260637005/35e572832e)
 #### ch.2 SQL문 이해 #1
-  - Inner Join
-  - Multiple Join
-  - Outer Join
+  - [Inner Join](https://vimeo.com/260639480/52bdaa82f8)
+  - [Multiple Join](https://vimeo.com/260640570/29584a92b2)
+  - [Outer Join](https://vimeo.com/260641837/569e6e36d8)
 #### ch.3 SQL문 이해 #2
   - Update
   - Update 비용에 대한 설명
