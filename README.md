@@ -21,19 +21,45 @@
 
 ## 강의구성
 #### ch.1 데이터베이스 시스템 개요
-#### ch.2 데이터베이스 디자인하기
 - [MySQL 설치하기](http://www.popit.kr/mysql-%EC%84%A4%EC%B9%98-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%99%98%EA%B2%BD/)
-#### ch.3 SQL문 이해 #1
-#### ch.4 SQL문 이해 #2
-#### ch.5 SQL programming with Python and Cloud
-#### ch.6 SQL문의 이해 #3
+#### ch.2 SQL문 이해 #1
+  - Inner Join
+  - Multiple Join
+  - Outer Join
+#### ch.3 SQL문 이해 #2
+  - Update
+  - Update 비용에 대한 설명
+  - Delete
+#### ch.4 데이터베이스 디자인하기
+  - 정규화의 이해
+  - 참조무결성의 이해
+  - ER Diagram
+  - CREATE
+  - ACID
+#### ch.5 SQL문의 이해 #3
+  - 집합연산
+  - 서브쿼리
+  - View
+  - CASE 식
+#### ch.6 SQL programming with Python and Cloud
 #### ch.7 ORM Programming #1
 #### ch.8 ORM Programming #2
 #### ch.9 Rest Framework와 챗봇 프로그래밍  #1
 #### ch.10 Rest Framework와 챗봇 프로그래밍  #2
 #### ch.11 Rest Framework와 챗봇 프로그래밍  #2
 #### ch.12 Advanced DB Topcis #1
+  - Transaction
+  - View
+  - Trigger
 #### ch.13 Advanced DB Topcis #2
+  - 다중화 - Replication & 샤딩
+  - Procedure
+  - indexing
+  - 알고리즘
+    - Indexing 알고리즘
+    - Nested Loops
+    - Hash
+    - Merge
 #### ch.14 NoSQL Database #1
 #### ch.15 NoSQL Database #2
 
