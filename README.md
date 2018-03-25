@@ -28,15 +28,14 @@
   - [Multiple Join](https://vimeo.com/260640570/29584a92b2)
   - [Outer Join](https://vimeo.com/260641837/569e6e36d8)
 #### ch.3 SQL문 이해 #2
-  - Update
-  - Update 비용에 대한 설명
-  - Delete
+  - Update - [강의영상](https://vimeo.com/261708038/d5d594053d)
+  - Delete - [강의영상](https://vimeo.com/261708022/a4ef4177bf)
+  - Transaction & ACID - [강의영상](https://vimeo.com/261708055/f8c520f3b3)
 #### ch.4 데이터베이스 디자인하기
   - 정규화의 이해
   - 참조무결성의 이해
   - ER Diagram
   - CREATE
-  - ACID
 #### ch.5 SQL문의 이해 #3
   - 집합연산
   - 서브쿼리
@@ -49,7 +48,6 @@
 #### ch.10 Rest Framework와 챗봇 프로그래밍  #2
 #### ch.11 Rest Framework와 챗봇 프로그래밍  #2
 #### ch.12 Advanced DB Topcis #1
-  - Transaction
   - View
   - Trigger
 #### ch.13 Advanced DB Topcis #2
