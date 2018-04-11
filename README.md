@@ -39,6 +39,10 @@
   - 정규화의 이해 - [강의영상](https://vimeo.com/263750921/f6ae51999f)
   - CREATE - [강의영상](https://vimeo.com/264172189/c3e575bc61)
   - 참조무결성의 이해 - [강의영상](https://vimeo.com/264179650/f44af95954)
+  - Foregin key constraints - []()
+  - ALTER - []()
+  - DB Modeling with Workbench - []()
+  - INSERT - []()
 
 #### ch.5 SQL문의 이해 #3
   - 집합연산
@@ -52,7 +56,6 @@
 #### ch.10 Rest Framework와 챗봇 프로그래밍  #2
 #### ch.11 Rest Framework와 챗봇 프로그래밍  #2
 #### ch.12 Advanced DB Topcis #1
-  - View
   - Trigger
 #### ch.13 Advanced DB Topcis #2
   - 다중화 - Replication & 샤딩
