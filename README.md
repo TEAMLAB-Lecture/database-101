@@ -39,7 +39,7 @@
   - 정규화의 이해 - [강의영상](https://vimeo.com/263750921/f6ae51999f)
   - CREATE - [강의영상](https://vimeo.com/264172189/c3e575bc61)
   - 참조무결성의 이해 - [강의영상](https://vimeo.com/264179650/f44af95954)
-  - Foregin key constraints - []()
+  - Foregin key constraints - [강의영상](https://vimeo.com/264260796/c58e7c85f9)
   - ALTER - []()
   - DB Modeling with Workbench - []()
   - INSERT - []()
