@@ -42,7 +42,7 @@
   - Foregin key constraints - [강의영상](https://vimeo.com/264260796/c58e7c85f9)
   - ALTER - [강의영상](https://vimeo.com/264272055/1ed81e0f1c)
   - DB Modeling with Workbench - [강의자료](https://vimeo.com/264275712/3e865ea2f5)
-  - INSERT - []()
+  - INSERT - [강의영상](https://vimeo.com/264903624/0363b7ddf9)
 
 #### ch.5 SQL문의 이해 #3
   - 집합연산
