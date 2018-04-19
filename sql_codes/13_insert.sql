@@ -1,13 +1,14 @@
 use StudentExample;
 
-INSERT INTO Students VALUES (4, 'Ben', 'Clothier');
+INSERT INTO Students  
+		VALUES (4, 'Ben', 'Clothier');
 INSERT INTO Students VALUES (5, 'John', 'Viescas');
 INSERT INTO Students VALUES (6, 'Doug', 'Steele');
 
 INSERT INTO StudentSubjects (StudentID, SubjectID, FinalGrade)
-SELECT StudentID, SubjectID, FinalGrade
-FROM StudentSubjects
-WHERE FinalGrade > 80;
+	SELECT StudentID, SubjectID, FinalGrade
+	FROM StudentSubjects
+	WHERE FinalGrade > 80;
 
 CREATE TABLE NewGrade
   SELECT *
