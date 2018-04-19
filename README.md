@@ -45,10 +45,10 @@
   - INSERT - [강의영상](https://vimeo.com/264903624/0363b7ddf9)
 
 #### ch.5 SQL문의 이해 #3
-  - 집합연산
-  - 서브쿼리
-  - View
-  - CASE 식
+  - 집합연산과 서브쿼리 - [강의영상](https://vimeo.com/265412617/f9da19ffce)
+  - 조건 분기식 - [강의영상](https://vimeo.com/265491723/e1910c7911)
+  - View - [강의영상]()
+
 #### ch.6 SQL programming with Python and Cloud
 #### ch.7 ORM Programming #1
 #### ch.8 ORM Programming #2
