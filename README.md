@@ -44,13 +44,55 @@
   - DB Modeling with Workbench - [강의자료](https://vimeo.com/264275712/3e865ea2f5)
   - INSERT - [강의영상](https://vimeo.com/264903624/0363b7ddf9)
 
-#### ch.5 SQL문의 이해 #3
   - 집합연산과 서브쿼리 - [강의영상](https://vimeo.com/265412617/f9da19ffce)
+  #### ch.5 SQL문의 이해 #3
   - 조건 분기식 - [강의영상](https://vimeo.com/265491723/e1910c7911)
   - View - [강의영상](https://vimeo.com/265983791/c8f61862ea)
 
 #### ch.6 SQL programming with Python and Cloud
+#### Supplements - Python & Atom
+- Lab: 파이썬 인터프리터 및 Atom 에디터 설치
+    - Miniconda on Windows - [강의영상](https://www.youtube.com/watch?v=lqSNOIPGbns&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=5&t=44s)
+    - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](https://www.youtube.com/watch?v=cCxfLSIDfrk&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=6&t=19s)
+    - Mac & Linux 설치 -  [설치문서](desc/atom_macos.md), [강의영상](https://www.youtube.com/watch?v=iKFB2O2ZfDo&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=7&t=0s)
+
+#### Supplements - Modules & Packages
+- 가상환경과 Package 활용하기 - [강의영상](https://www.youtube.com/watch?v=429HUdO3eko&t=25s&index=77&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://doc.co/SoCj3W/EFk5T6)
+- Python ecosystem for machine learning - [강의영상](https://www.youtube.com/watch?v=P4dOSb0jcUw&index=7&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNZscJaF1fC63jl_Q)
+
+#### Supplements - Jupyter
+- How to use Jupyter Notebook - [강의영상](https://www.youtube.com/watch?v=Hz_k_0sOv-w&index=8&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNaEydTqvLQIgXRCQ)
+
+#### Supplements - Pandas
+- Chapter Intro - [강의영상](https://www.youtube.com/watch?v=ktE6KFigdAk&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=25), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQAO3rOwCot37nR8Q), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch4), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch4.zip)
+- Pandas overview - [강의영상](https://www.youtube.com/watch?v=hGS9FC9fRbI&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=26)
+- Series - [강의영상](https://www.youtube.com/watch?v=24Jzr2FlKe4&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=27)
+- DataFrame - [강의영상](https://www.youtube.com/watch?v=AWkrnuESiYE&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=28)
+- Selection & Drop - [강의영상](https://www.youtube.com/watch?v=uU6OHj2vKAE&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=29)
+- Dataframe operations - [강의영상](https://www.youtube.com/watch?v=cFHLylUi0DA&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=30)
+- lambda, map apply - [강의영상](https://www.youtube.com/watch?v=e6D6onOzJy0&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=31)
+- Pandas builit-in functions - [강의영상](https://www.youtube.com/watch?v=mARDtwaphfM&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=32)
+- Lab Assignment: Build a matrix -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/build_matrix.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/2_lab_build_matrix)
+- Chapter Intro - [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQa8FVnGK2l1QaSJg), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch5), [코드다운로드](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/ml_ch5.zip)
+- Groupby I - [강의영상](https://www.youtube.com/watch?v=jRJt6PG2iHM&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=33)
+- Groupby II - [강의영상](https://www.youtube.com/watch?v=VeZTpY4qFag&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=34)
+- Casestudy - [강의영상](https://www.youtube.com/watch?v=sMfckmJUBeg&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=35)
+- Pivot table & Crosstab - [강의영상](https://www.youtube.com/watch?v=8y_gOCJWYaY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=36)
+- Merge & Concat - [강의영상](https://www.youtube.com/watch?v=bUjT1V67UhY&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=37)
+- Database connection & Persistance - [강의영상](https://www.youtube.com/watch?v=c6kVMrfYs-Y&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl&t=0s&index=38)
+
+
+
+
+
 #### ch.7 ORM Programming #1
+#### Supplements - OOP
+- [Intro 영상](https://www.youtube.com/watch?v=lOVKpZ7DeSI&t=0s&index=66&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM6gbKRe_TkGLAxUA), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_10_code.zip)
+- Objective oriented programming overview - [강의영상](https://www.youtube.com/watch?v=5WsGRMZLnPE&t=2s&index=67&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMYkH3ZAjqY6sOXfw)
+- Objects in Python - [강의영상](https://www.youtube.com/watch?v=76QB5KGVDYg&t=0s&index=68&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMh6l3uYC84NNn98A)
+- Lab: Note and Notebook - [강의영상](https://www.youtube.com/watch?v=y1q_Fu8iloI&t=6s&index=69&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM2aG7K7gGlEkIn_g)
+- OOP characteristics - [강의영상#1](https://www.youtube.com/watch?v=5WsGRMZLnPE&t=2s&index=67&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [영상#2](https://www.youtube.com/watch?v=25rR66FUGKI&t=12s&index=71&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [영상#3](https://www.youtube.com/watch?v=dNqp4oqgjNU&t=11s&index=72&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM3sTcEiU27_YLaGA)
+
 #### ch.8 ORM Programming #2
 #### ch.9 Rest Framework와 챗봇 프로그래밍  #1
 #### ch.10 Rest Framework와 챗봇 프로그래밍  #2
