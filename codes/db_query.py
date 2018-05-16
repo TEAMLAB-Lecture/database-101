@@ -14,7 +14,6 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 
-
 # 3 - extract all movies
 movies = session.query(Movie).all()
 
