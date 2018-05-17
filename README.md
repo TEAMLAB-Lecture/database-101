@@ -86,6 +86,11 @@
 
 
 #### ch.7 ORM Programming #1
+- [ORM overview](https://vimeo.com/269820328)
+- [SQLalchemy - modeling](https://vimeo.com/270133261/5d58953dbb)
+- [SQLalchemy - creation](https://vimeo.com/270244802/612e95b736)
+- [SQLalchemy - query](https://vimeo.com/270261566/3bec4eff4c)
+
 #### Supplements - OOP
 - [Intro 영상](https://www.youtube.com/watch?v=lOVKpZ7DeSI&t=0s&index=66&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM6gbKRe_TkGLAxUA), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_10_code.zip)
 - Objective oriented programming overview - [강의영상](https://www.youtube.com/watch?v=5WsGRMZLnPE&t=2s&index=67&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMYkH3ZAjqY6sOXfw)
@@ -93,7 +98,15 @@
 - Lab: Note and Notebook - [강의영상](https://www.youtube.com/watch?v=y1q_Fu8iloI&t=6s&index=69&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM2aG7K7gGlEkIn_g)
 - OOP characteristics - [강의영상#1](https://www.youtube.com/watch?v=5WsGRMZLnPE&t=2s&index=67&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [영상#2](https://www.youtube.com/watch?v=25rR66FUGKI&t=12s&index=71&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [영상#3](https://www.youtube.com/watch?v=dNqp4oqgjNU&t=11s&index=72&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM3sTcEiU27_YLaGA)
 
-#### ch.8 ORM Programming #2
+#### ch.8 ORM Programming #2 - Assignment week
+
+#### Supplements - CSV & Web Scraping
+- Comma Separate Values - [강의영상#1](https://www.youtube.com/watch?v=KV1wFOEFguM&t=0s&index=88&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [영상#2](https://www.youtube.com/watch?v=3T91_ps0BCw&t=0s&index=89&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [영상#3](https://www.youtube.com/watch?v=BCoqOnc2azY&t=0s&index=90&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I) [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQQVw_t5hyfZWAUZA)
+- Web 이해하기 - [강의영상](https://www.youtube.com/watch?v=iyxR8h4hsso&t=0s&index=96&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQRedYrLqzEddUxrQ)
+- HTML 데이터 다루기 - [강의영상](https://www.youtube.com/watch?v=sk-jNOgzECA&t=0s&index=97&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQPgRXwzloGRJa4wA)
+- 정규 표현식: Regular Expression - [강의영상](https://www.youtube.com/watch?v=CQWSANPJUPE&t=0s&index=98&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
+- Lab: RegEx - [강의영상](https://www.youtube.com/watch?v=0eI45EJH3rY&t=0s&index=99&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQlBjbm3gxs3fX6BA)
+
 #### ch.9 Rest Framework와 챗봇 프로그래밍  #1
 #### ch.10 Rest Framework와 챗봇 프로그래밍  #2
 #### ch.11 Rest Framework와 챗봇 프로그래밍  #2
