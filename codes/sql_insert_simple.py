@@ -33,15 +33,6 @@ session.add(bourne_identity)
 session.add(furious_7)
 session.add(pain_and_gain)
 
-session.add(matt_contact)
-session.add(dwayne_contact)
-session.add(dwayne_contact_2)
-session.add(mark_contact)
-
-session.add(matt_stuntman)
-session.add(dwayne_stuntman)
-session.add(mark_stuntman)
-
 
 # 10 - commit and close session
 session.commit()

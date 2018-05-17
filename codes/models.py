@@ -21,7 +21,7 @@ class Movie(Base):
     __tablename__ = 'movies'
 
     id = Column(Integer, primary_key=True)
-    title = Column(String)
+    title = Column(String(50))
     release_date = Column(Date)
     actors = relationship("Actor", secondary=movies_actors_association)
 
@@ -46,7 +46,7 @@ class Stuntman(Base):
     __tablename__ = 'stuntmen'
 
     id = Column(Integer, primary_key=True)
-    name = Column(String)
+    name = Column(String(50))
     active = Column(Boolean)
     actor_id = Column(Integer, ForeignKey('actors.id'))
     actor = relationship("Actor", backref=backref("stuntman", uselist=False))
