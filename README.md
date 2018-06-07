@@ -108,11 +108,11 @@
 - Lab: RegEx - [강의영상](https://www.youtube.com/watch?v=0eI45EJH3rY&t=0s&index=99&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQlBjbm3gxs3fX6BA)
 
 #### ch.9 Rest Framework와 챗봇 프로그래밍  #1
-#### ch.10 Rest Framework와 챗봇 프로그래밍  #2
-#### ch.11 Rest Framework와 챗봇 프로그래밍  #2
-#### ch.12 Advanced DB Topcis #1
+  - [AWS와 flaks](https://vimeo.com/273932039)
+  - [AWS & RDS](https://vimeo.com/273937588)
+#### ch.10 Advanced DB Topcis #1
   - Trigger
-#### ch.13 Advanced DB Topcis #2
+#### ch.11 Advanced DB Topcis #2
   - 다중화 - Replication & 샤딩
   - Procedure
   - indexing
@@ -121,8 +121,7 @@
     - Nested Loops
     - Hash
     - Merge
-#### ch.14 NoSQL Database #1
-#### ch.15 NoSQL Database #2
+#### ch.12 NoSQL Database #1
 
 ## Dataset
 - [Northwind set](https://relational.fit.cvut.cz/dataset/Northwind)
