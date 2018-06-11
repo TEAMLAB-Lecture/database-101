@@ -110,9 +110,11 @@
 #### ch.9 Rest Framework와 챗봇 프로그래밍  #1
   - [AWS와 flaks](https://vimeo.com/273932039)
   - [AWS & RDS](https://vimeo.com/273937588)
+  - [flask & mysql connection](https://vimeo.com/274405244/68393e2d14)
+  - [kakaobot & SQLalchemy](https://vimeo.com/274409212/a460f9d68a)
+
 #### ch.10 Advanced DB Topcis #1
   - Trigger
-#### ch.11 Advanced DB Topcis #2
   - 다중화 - Replication & 샤딩
   - Procedure
   - indexing
@@ -121,13 +123,12 @@
     - Nested Loops
     - Hash
     - Merge
-#### ch.12 NoSQL Database #1
+
+#### ch.11 NoSQL Database
 
 ## Dataset
 - [Northwind set](https://relational.fit.cvut.cz/dataset/Northwind)
   - The Northwind database contains the sales data for a fictitious company called Northwind Traders, which imports and exports specialty foods from around the world.
-
-
 
 ## References
 - Relational Database and SQL
