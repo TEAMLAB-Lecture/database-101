@@ -110,6 +110,8 @@
 #### ch.9 Rest Framework와 챗봇 프로그래밍  #1
   - [AWS와 flaks](https://vimeo.com/273932039)
   - [AWS & RDS](https://vimeo.com/273937588)
+##### References
+  - https://opentutorials.org/module/3860?fbclid=IwAR3jLSVeJsrfkZh6A5E6lAde96D1KASpA6UWueCYc4vA399XTdA4DfaUAXQ
 #### ch.10 Advanced DB Topcis #1
   - Trigger
 #### ch.11 Advanced DB Topcis #2
