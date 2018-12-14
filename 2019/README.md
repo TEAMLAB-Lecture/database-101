@@ -148,3 +148,5 @@
 - MongoDB
   - https://www.youtube.com/playlist?list=PLBHVuYlKEkUI73kv66lK2aWmMuQ-vBZwF
   - https://realpython.com/blog/python/introduction-to-mongodb-and-python/
+- Database 튜닝
+  - http://gywn.net/2012/05/mysql-bad-sql-type/?fbclid=IwAR2W5LbtIkBFaLuaHi1muEt6aYeJswOoUj78pl714v_kceS53XKtx4sFCVM
