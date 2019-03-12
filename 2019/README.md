@@ -9,6 +9,7 @@
 #### ch.1 데이터베이스 시스템 개요
 - [MySQL 설치하기](http://www.popit.kr/mysql-%EC%84%A4%EC%B9%98-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%99%98%EA%B2%BD/)
 - [Dataset - Northwind](https://vimeo.com/260637005/35e572832e)
+    - Dataset - [scheme](https://raw.githubusercontent.com/dalers/mywind/master/northwind.sql), [instance](https://raw.githubusercontent.com/dalers/mywind/master/northwind-data.sql)
 
 #### ch.2 SQL문 이해 #1
   - SELECT문 이해하기
