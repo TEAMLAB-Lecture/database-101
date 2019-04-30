@@ -32,12 +32,17 @@
   - DB Modeling with Workbench - [강의자료](https://vimeo.com/264275712/3e865ea2f5)
   - INSERT - [강의영상](https://vimeo.com/264903624/0363b7ddf9)
 
+#### ch.5 SQL문의 이해 #3
   - 집합연산과 서브쿼리 - [강의영상](https://vimeo.com/265412617/f9da19ffce)
-  #### ch.5 SQL문의 이해 #3
   - 조건 분기식 - [강의영상](https://vimeo.com/265491723/e1910c7911)
   - View - [강의영상](https://vimeo.com/265983791/c8f61862ea)
 
 #### ch.6 SQL programming with Python and Cloud
+    - AWS Eduate - [강의영상](https://www.youtube.com/playlist?list=PLuHgQVnccGMAp9YSO2J5VBWLJewTPn_0_)
+    - AWS1: EC2 - [강의영상](https://www.youtube.com/watch?v=JJSghRnWbag&list=PLuHgQVnccGMDNWIEgnXjaZ3jgbIo5zQGi)
+    - AWS2: RDS - [강의영상](https://www.youtube.com/watch?v=V7C7r6MoY0I&list=PLuHgQVnccGMBtHZf9Nt1SSlANoRi5cbOw)
+    - AWS2: S3 - [강의영상](https://www.youtube.com/watch?v=6P6HoumuTOw&list=PLuHgQVnccGMCFHj64mNZxlbeNWOYUpua4)
+
 #### Supplements - Python & Atom
 - Lab: 파이썬 인터프리터 및 Atom 에디터 설치
     - Miniconda on Windows - [강의영상](https://www.youtube.com/watch?v=lqSNOIPGbns&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=5&t=44s)
