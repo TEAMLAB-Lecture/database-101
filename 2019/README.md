@@ -101,8 +101,13 @@
 - Lab: RegEx - [강의영상](https://www.youtube.com/watch?v=0eI45EJH3rY&t=0s&index=99&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQlBjbm3gxs3fX6BA)
 
 #### ch.9 Rest Framework와 챗봇 프로그래밍  #1
+  - [AWS EC2](https://vimeo.com/293271553/29720abad5)
   - [AWS와 flaks](https://vimeo.com/273932039)
   - [AWS & RDS](https://vimeo.com/273937588)
+  - [Flask SQLAlchemy](https://vimeo.com/274405244/68393e2d14)
+  - [Chatbot with flask SQL](https://vimeo.com/274409212/a460f9d68a)
+
+
 ##### References
   - https://opentutorials.org/module/3860?fbclid=IwAR3jLSVeJsrfkZh6A5E6lAde96D1KASpA6UWueCYc4vA399XTdA4DfaUAXQ
 #### ch.10 Advanced DB Topcis #1
